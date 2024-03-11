@@ -2,7 +2,7 @@
 
 ## Tasks
 #Task 1: Use a template to deploy the lab environment.
-#Task 2: Deploy an Azure firewall.
+###Task 2: Deploy an Azure firewall.
 #Task 3: Create a default route.
 #Task 4: Configure an application rule.
 #Task 5: Configure a network rule.
