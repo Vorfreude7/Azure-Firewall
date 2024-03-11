@@ -36,6 +36,21 @@ I used the template provided to deploy a lab environment on Azure. This is done 
 I deployed an Azure Firewall.
 ![image](https://github.com/Vorfreude7/Azure-Firewall/assets/128520269/ee2a6841-eb67-4762-acd1-6f6577252a9b)
 
+#Task 3: Create a default route.
+
+I configured a default route for the Workload-SN subnet. This route will configure outbound traffic through the firewall.
+![image](https://github.com/Vorfreude7/Azure-Firewall/assets/128520269/56ef3af5-903c-49e0-a115-5e77649166f5)
+
+#Task 4: Configure an application rule.
+
+
+
+#Task 5: Configure a network rule.
+
+#Task 6: Configure DNS servers.
+
+#Task 7: Test the firewall.
+
 
 
 drag & drop screenshots here or use imgur and reference them using imgsrc
