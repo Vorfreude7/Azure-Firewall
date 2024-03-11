@@ -27,7 +27,8 @@
 ## Steps
 #Task 1: Use a template to deploy the lab environment.
 I used the template provided to deploy a lab environment on Azure. This is done by deploying a custom template, and loading the json file provided
-![image](https://github.com/Vorfreude7/Azure-Firewall/assets/128520269/44b9037e-831f-4b8c-9c8c-91ce3d080294)
+![image](https://github.com/Vorfreude7/Azure-Firewall/assets/128520269/7fb4fe07-6aac-4eb2-9f1a-84ce6d151612)
+
 
 drag & drop screenshots here or use imgur and reference them using imgsrc
 
