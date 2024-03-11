@@ -4,10 +4,15 @@
 #Task 1: Use a template to deploy the lab environment.
 
 #Task 2: Deploy an Azure firewall.
+
 #Task 3: Create a default route.
+
 #Task 4: Configure an application rule.
+
 #Task 5: Configure a network rule.
+
 #Task 6: Configure DNS servers.
+
 #Task 7: Test the firewall.
 
 ### Skills Learned
@@ -16,6 +21,7 @@
 
 ### Tools Used
 -Microsoft Azure
+
 -Azure Firewall
 
 ## Steps
