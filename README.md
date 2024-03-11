@@ -25,6 +25,9 @@
 -Azure Firewall
 
 ## Steps
+I used the template provided to deploy a lab environment on Azure.
+![image](https://github.com/Vorfreude7/Azure-Firewall/assets/128520269/44b9037e-831f-4b8c-9c8c-91ce3d080294)
+
 drag & drop screenshots here or use imgur and reference them using imgsrc
 
 Every screenshot should have some text explaining what the screenshot is about.
