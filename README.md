@@ -1,4 +1,7 @@
 # Azure-Firewall
+Ntwork Diagram to be implemented.
+![image](https://github.com/Vorfreude7/Azure-Firewall/assets/128520269/6b33e4e3-66c3-4fb4-a249-d8a3dd7b9328)
+
 
 ## Tasks
 #Task 1: Use a template to deploy the lab environment.
@@ -25,7 +28,7 @@
 -Azure Firewall
 
 ## Steps
-##Task 1: Use a template to deploy the lab environment.
+#Task 1: Use a template to deploy the lab environment.
 
 I used the template provided to deploy a lab environment on Azure. This is done by deploying a custom template, and loading the json file provided.
 In Azure, using a template to deploy a lab often involves using Azure Resource Manager (ARM) templates, which are JSON files defining the desired state of Azure resources. By defining resources and their configurations in a template, you can consistently and efficiently deploy complex environments, ensuring reproducibility and reducing manual errors. Key steps typically include creating or modifying a template to include the necessary resources and configurations, deploying the template using Azure CLI, PowerShell, or the Azure portal, and validating that the environment is provisioned correctly.
