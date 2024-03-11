@@ -43,20 +43,29 @@ I configured a default route for the Workload-SN subnet. This route will configu
 
 #Task 4: Configure an application rule.
 
+Below is the Application rule that I configured. This rule allows 10.0.2.0/24 subnet to reach www.bing.com on port 80 and 443.
+![image](https://github.com/Vorfreude7/Azure-Firewall/assets/128520269/d73f6883-19c3-4dff-8b3b-5049384317b5)
 
 
 #Task 5: Configure a network rule.
+The network rule that I configured below, allows 10.0.2.0/24 subnet to reach the DNS Servers that is 209.244.0.3 and 209.244.0.4 on port 53.
+![image](https://github.com/Vorfreude7/Azure-Firewall/assets/128520269/b65cf17b-fca2-4d66-8cd9-09ce1cc9eb60)
+
 
 #Task 6: Configure DNS servers.
 
+I configured primary and Secondary DNS Servers for the Virtual machine Srv-Work
+![image](https://github.com/Vorfreude7/Azure-Firewall/assets/128520269/42267faf-24a0-4024-b07e-c9166da6be12)
+
+
 #Task 7: Test the firewall.
+I was able to access www.bing.com, because of the application rule configured earlier that allows that traffic
+![image](https://github.com/Vorfreude7/Azure-Firewall/assets/128520269/7710c878-effd-47e7-bd2e-2b9e118a571d)
+
+Traffic to microsoft.com is however being blocked because there is no rule configured to allow that traffic.
+![image](https://github.com/Vorfreude7/Azure-Firewall/assets/128520269/9837ad73-8bed-45f1-a7bd-889c04a0727b)
 
 
 
-drag & drop screenshots here or use imgur and reference them using imgsrc
 
-Every screenshot should have some text explaining what the screenshot is about.
 
-Example below.
-
-*Ref 1: Network Diagram*
