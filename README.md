@@ -21,6 +21,7 @@ Ntwork Diagram to be implemented.
 ### Skills Learned
 - Enhanced knowledge of network and application firewall rules.
 - Development of critical thinking and problem-solving skills in cybersecurity.
+- Deploy and Test Azure Firewall
 
 ### Tools Used
 -Microsoft Azure
